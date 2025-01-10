@@ -117,20 +117,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "데이터 분석가를 희망하는 취준생."
   location         : "한국기술교육대학교"
-  email            : "rsm9085@gmail.com"
+  email            : #"rsm9085@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "rsm9085@gmail.com"
+    - label: "Tableau"
+      icon: #"fas fa-fw fa-link"
+      url: "https://public.tableau.com/app/profile/seongmuk.rim/vizzes"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -138,21 +132,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "rsm9085@gmail.com"
+    - label: "Tableau"
+      icon: #"fab fa-fw fa-github"
+      url: https://public.tableau.com/app/profile/seongmuk.rim/vizzes
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
@@ -224,7 +209,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Pagination with jekyll-paginate
