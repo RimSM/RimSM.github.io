@@ -11,10 +11,14 @@
             "id": "036260a227b1ad32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-01-10-first.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-01-10-first"
             }
           }
         ]
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +165,11 @@
   },
   "active": "036260a227b1ad32",
   "lastOpenFiles": [
+    "images/IMG_8115 1.png",
     "_posts/2025-01-10-first.md",
+    "_site/images/2025-01-10-first/IMG-20250111000332703.png",
+    "_site/images/IMG_8115.png",
+    "images/2025-01-10-first/IMG-20250111000332703.png",
     "_site/assets/images/SQL_img.svg",
     "assets/images/SQL_img.svg",
     "_site/assets/images/Microsoft Azure SQL Database Logo.png",
@@ -179,9 +186,6 @@
     "_site/assets/js/main.min.js",
     "_site/assets/js/lunr",
     "_site/images/IMG_8115 1.png",
-    "_site/screenshot.png",
-    "_site/screenshot-layouts.png",
-    "_site/IMG_8115.png",
-    "images/2025-01-10-first/IMG-20250110221700350.png"
+    "_site/screenshot.png"
   ]
 }
