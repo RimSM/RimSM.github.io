@@ -15,20 +15,20 @@
 minimal_mistakes_skin    : "air" #"dirt","default", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "데일리 데이터 묵"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "임 성묵"
-description              : "데이터 분석가를 희망하는 취준생."
+title_separator          : "|"
+subtitle                 : "이것저것" # site tagline that appears below site title in masthead
+name                     : "Rim Seoung Muk"
+description              : "데이터 공부하는 블로그입니다."
 url                      : "https://RimSM.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/SQL_img.svg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true #false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -113,15 +113,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rim Seoung Muk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "데이터 분석가를 희망하는 취준생."
+  location         : "한국기술교육대학교"
+  email            : "rsm9085@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -323,3 +320,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date : true
+      date_format : "%Y-%m-%d"
