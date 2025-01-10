@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" #"default","air", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"dirt""default", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "데일리 데이터 묵"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "임 성묵"
+description              : "데이터 분석가를 희망하는 취준생."
 url                      : "https://RimSM.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
