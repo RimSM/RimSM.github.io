@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f53b48255b54a8a",
+        "id": "5b8e2089881012ce",
         "type": "tabs",
         "children": [
           {
-            "id": "d4734b5b58ae83d9",
+            "id": "f63759e30e2c6285",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-01-11-백패커-쿼리테스트-후기.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-01-11-백패커-쿼리테스트-후기"
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-01-10-first.md",
+                "file": "_posts/2025-01-11-백패커-쿼리테스트-후기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-10-first"
+              "title": "2025-01-11-백패커-쿼리테스트-후기의 백링크"
             }
           },
           {
@@ -108,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-01-10-first.md",
+                "file": "_posts/2025-01-11-백패커-쿼리테스트-후기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-10-first"
+              "title": "2025-01-11-백패커-쿼리테스트-후기의 나가는 링크"
             }
           },
           {
@@ -135,18 +139,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-01-10-first.md"
+                "file": "_posts/2025-01-11-백패커-쿼리테스트-후기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-10-first"
+              "title": "2025-01-11-백패커-쿼리테스트-후기 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,28 +163,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4734b5b58ae83d9",
+  "active": "f63759e30e2c6285",
   "lastOpenFiles": [
+    "_site/스크린샷 2025-01-11 17.46.40.png",
+    "스크린샷 2025-01-11 17.46.40.png",
+    "images/스크린샷 2025-01-11 17.46.40.png",
+    "_posts/2025-01-11-백패커-쿼리테스트-후기.md",
+    "_site/images/스크린샷 2025-01-11 17.46.40.png",
+    "images/Pasted image 20250111174404.png",
+    "images/2025-01-10-first/IMG-20250110221700350.png",
+    "_site/images/Pasted image 20250111174404.png",
     "_posts/2025-01-10-first.md",
+    "_site/백패커-쿼리테스트-후기/index.html",
+    "_site/백패커-쿼리테스트-후기",
+    "_site/2025-01-11-백패커-쿼리테스트-후기/index.html",
+    "_site/2025-01-11-백패커-쿼리테스트-후기",
+    "_site/무제 파일.md",
     "images/IMG_8115 1.png",
     "_site/images/2025-01-10-first/IMG-20250111000332703.png",
     "_site/images/IMG_8115.png",
     "images/2025-01-10-first/IMG-20250111000332703.png",
-    "_site/assets/images/SQL_img.svg",
-    "assets/images/SQL_img.svg",
-    "_site/assets/images/Microsoft Azure SQL Database Logo.png",
     "_site/assets/images",
-    "assets/images/Microsoft Azure SQL Database Logo.png",
     "assets/images",
     "_site/assets/js/lunr/lunr.min.js",
     "_site/assets/js/lunr/lunr.js",
     "_site/assets/js/lunr/lunr-store.js",
-    "_site/assets/js/lunr/lunr-gr.js",
-    "_site/assets/js/lunr/lunr-en.js",
-    "_site/images/2025-01-10-first/IMG-20250110221700350.png",
-    "_site/assets/js/main.min.js.map",
-    "_site/assets/js/main.min.js",
-    "_site/assets/js/lunr",
-    "_site/images/IMG_8115 1.png"
+    "_site/assets/js/lunr/lunr-gr.js"
   ]
 }
