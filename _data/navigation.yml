@@ -8,11 +8,20 @@ main:
 sidebar-category:
   - title: "Data"
     children:
+      - title: "Python"
+        url: "/python"
+        category: "python"
+      - title: "SQL"
+        url: "/sql"
+        category: "sql"
+      - title: "Tableau"
+        url: "/tableau"
+        category: "tableau"
+  - title: "Life"
+    children:
       - title: "Book"
         url: "/book"
         category: "book"
-  - title: "Life"
-    children:
       - title: "Retrospect"
         url: "/retrospect"
         category: "retrospect"
