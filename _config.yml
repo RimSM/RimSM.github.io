@@ -306,5 +306,8 @@ defaults:
       share: true
       related: true
       show_date : true
+      toc: ture
+      toc_sticky: true
       sidebar:
         nav: "sidebar-category"
+      

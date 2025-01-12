@@ -16,6 +16,9 @@ sidebar-category:
       - title: "Retrospect"
         url: "/retrospect"
         category: "retrospect"
+      - title: "Small_talk"
+        url: "/small_talk"
+        category: "small_talk"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
