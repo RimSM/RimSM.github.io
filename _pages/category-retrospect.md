@@ -1,7 +1,7 @@
 --- 
 title: "Retrospect"
 layout: archive
-permalink: /retrospect
+permalink: /retrospect/
 author_profile: true
 sidebar: 
     nav: "sidebar-category"
