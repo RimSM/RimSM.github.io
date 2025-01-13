@@ -7,9 +7,9 @@
    ========================================================================== */
 
 $doc-font-size: 16px !default;
-$doc-font-size-medium: $doc-font-size * 1.125 !default;
-$doc-font-size-large: $doc-font-size * 1.25 !default;
-$doc-font-size-x-large: $doc-font-size * 1.375 !default;
+$doc-font-size-medium: $doc-font-size * 1.0 !default;
+$doc-font-size-large: $doc-font-size * 1.0 !default;
+$doc-font-size-x-large: $doc-font-size * 1.125 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -158,9 +158,9 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 150px !default; //default 200px
+$right-sidebar-width: 250px !default;        // default 300 px
+$right-sidebar-width-wide: 350px !default;  // default 400px 
 
 /*
    Other

@@ -301,13 +301,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
       related: true
       show_date : true
       toc: ture
       toc_sticky: true
+      toc_label : 목차 
       sidebar:
         nav: "sidebar-category"
       
+date_format : "%Y-%m-%d"

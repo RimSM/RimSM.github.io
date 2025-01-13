@@ -126,6 +126,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration : none; // 제목 하이라이트 처리 끄기
+
   &:focus {
     @extend %tab-focus;
   }
