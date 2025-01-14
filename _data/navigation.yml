@@ -15,6 +15,9 @@ sidebar-category:
       - title: "Tableau"
         url: "/tableau"
         category: "tableau"
+      - title: "Others"
+        url: "/others"
+        category: "others"
   - title: "Life"
     children:
       - title: "Book"
