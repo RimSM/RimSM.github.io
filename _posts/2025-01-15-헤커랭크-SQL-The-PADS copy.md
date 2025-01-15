@@ -1,13 +1,10 @@
 ---
 layouts: single
-title: 해커랭크 SQL The Pads
+title: "[해커랭크 SQL] - The Pads"
 categories: sql
 tag: [해커랭크,SQL,The Pads]
 toc: true
 ---
-
-<br>
-
 # 문제 
 
 1. Query an alphabetically ordered list of all names in OCCUPATIONS, immediately followed by the first letter of each profession as a parenthetical (i.e.: enclosed in parentheses). For example: AnActorName(A), ADoctorName(D), AProfessorName(P), and ASingerName(S).
@@ -51,7 +48,7 @@ ORDER BY
 
 ```sql 
 SELECT 
-    CONCAT('There are a total of ',cnt,' ',Oc,'s.')
+    CONCAT('There are a total of ',cnt,' ',LOWER(Oc),'s.')
 FROM(
 SELECT 
     Occupation AS Oc, 
