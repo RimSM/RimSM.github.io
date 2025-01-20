@@ -2,7 +2,7 @@
 layouts: single
 title: "[해커랭크 SQL] - Weather Observation Station 18"
 categories: sql
-tag: [해커랭크,SQL,New Companies]
+tag: [해커랭크,SQL,Weather Observation Station 18]
 toc: true
 ---
 
