@@ -4,6 +4,7 @@ title: "[해커랭크 SQL] - SQL Project Planning"
 categories: sql
 tag: [해커랭크,SQL,SQL Project Planning]
 toc: true
+typora-root-url: ../
 ---
 
 # 문제 
@@ -43,7 +44,7 @@ FROM (
 ```
 
 3. 나눠준걸로 그룹화를 하고 start_date의 Min , End_Date의 Max 값을 뽑아주자. 이걸 뺸 값을 order by로 정렬...! 
-   
+
 ```sql 
 SELECT 
     MIN(Start_Date), 
@@ -53,7 +54,7 @@ FROM (
         Start_Date, 
         End_Date, 
         SUM(
-            CASE 
+         CASE 
             WHEN Start_Date = Lag_Date OR Lag_Date IS NULL THEN 0 
             ELSE 1 
         END ) OVER(ORDER BY Start_Date) AS project

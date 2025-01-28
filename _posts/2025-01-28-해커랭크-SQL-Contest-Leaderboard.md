@@ -24,10 +24,9 @@ FROM Submissions
 GROUP BY 
     hacker_id, 
     challenge_id
-```
+```   
+
 2.  해커_id 별로 총합을 계산하자.
-
-
 ```sql 
 SELECT 
     hacker_id, 
@@ -46,10 +45,11 @@ GROUP BY
     hacker_id
 ```   
    
-
-3. 해커 테이블을 조인하여 이름을 붙이고 조건대로 정렬하자. 
    
-```sql 
+
+3. 해커 테이블을 조인하여 이름을 붙이고 조건대로 정렬하자.
+   
+```sql
 SELECT 
     BASE.hacker_id, 
     name,
@@ -73,10 +73,9 @@ GROUP BY
 ORDER BY 
     3 DESC, 
     1
-
 ```
+4. 0점 짜리 해커 제외하면 끝.
 
-4. 0점 짜리 해커 제외하면 끝.  
 ``` sql 
 SELECT 
     BASE.hacker_id, 
@@ -104,5 +103,7 @@ HAVING
 ORDER BY 
     3 DESC, 
     1
-
 ```
+
+md 다운 번호 순서가 왜 이러는지...?    
+알 수가 없다. vscode에서는 잘 나오는데 말이지... 
