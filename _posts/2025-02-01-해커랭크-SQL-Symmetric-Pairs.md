@@ -1,8 +1,8 @@
 ---
 layouts: single
-title: "[해커랭크 SQL] - Placements"
+title: "[해커랭크 SQL] - Symmetric Pairs"
 categories: sql
-tag: [해커랭크,SQL,SQL Placements]
+tag: [해커랭크,SQL,Symmetric Pairs]
 toc: true
 typora-root-url: ../
 ---
@@ -13,6 +13,9 @@ https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true
 
 두 쌍(X1, Y1)과 (X2, Y2)는 X1 = Y2이고 X2 = Y1일 때 대칭 쌍이라고 합니다.  
 쿼리를 작성하여 모든 대칭 쌍을 X 값만큼 오름차순으로 출력합니다. X1 ≤ Y1이 되도록 행을 나열합니다.
+
+<br>
+
 
 # 풀이
 

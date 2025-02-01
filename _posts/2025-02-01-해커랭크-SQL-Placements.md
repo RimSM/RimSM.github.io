@@ -2,7 +2,7 @@
 layouts: single
 title: "[해커랭크 SQL] - Placements"
 categories: sql
-tag: [해커랭크,SQL,SQL Placements]
+tag: [해커랭크,SQL,Placements]
 toc: true
 typora-root-url: ../
 ---
@@ -14,6 +14,8 @@ https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true
 
 가장 친한 친구가 자신보다 높은 연봉을 제안 받은 학생의 이름을 출력.   
 이름은 가장 친한 친구의 급여 금액에 따라 정렬하라. 
+
+<br>
 
 # 풀이 
 
