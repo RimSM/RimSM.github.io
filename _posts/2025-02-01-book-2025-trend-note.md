@@ -11,7 +11,7 @@ typora-root-url: ../
 
 
 
-<img src="/images/2025-02-01-book-2025-trend-note/book.png" alt="image-20250201145514391" style="zoom:33%;" />
+<p align="center"><img src="/images/2025-02-01-book-2025-trend-note/book.png" alt="image-20250201145514391" style="zoom:33%;" />
 
 MZ한 00년생 그게 나다.  
 직무관련 된 책 외 책을 꺼내도 보지 않던 내가 텍스트 힙에 이끌려 꺼낸 책은 바로 위의   
