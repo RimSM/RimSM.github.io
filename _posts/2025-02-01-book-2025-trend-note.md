@@ -1,8 +1,8 @@
 ---
 layouts: single
-title: "트렌드 노트 일상의 여가화-서평"
+title: "2025 트렌드 노트 일상의 여가화-서평"
 categories: book
-tag: [트렌드,노트,2025트렌드노트,일상의여가화,2025]
+tags: [트렌드,노트,트렌드노트,일상의여가화]
 toc: true
 typora-root-url: ../
 ---
