@@ -1,16 +1,17 @@
 ---
 layouts: single
-title: "2025 트렌드 노트 일상의 여가화-서평"
+title: "트렌드 노트 일상의 여가화-서평"
 categories: book
-tags: [2025,트렌드,노트,2025트렌드노트,일상의여가화]
+tag: [트렌드,노트,2025트렌드노트,일상의여가화,2025]
 toc: true
 typora-root-url: ../
 ---
+
 # 2025 트렌드 노트
 
 
 
-<img src="/images/2025-02-01-book-2025-trend-note/image-20250201145514391.png" alt="image-20250201145514391" style="zoom:33%;" />
+<img src="/images/2025-02-01-book-2025-trend-note/book.png" alt="image-20250201145514391" style="zoom:33%;" />
 
 MZ한 00년생 그게 나다.  
 직무관련 된 책 외 책을 꺼내도 보지 않던 내가 텍스트 힙에 이끌려 꺼낸 책은 바로 위의   
