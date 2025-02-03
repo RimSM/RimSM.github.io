@@ -1,6 +1,6 @@
 ---
 layouts: single
-title: "2025 트렌드 노트 일상의 여가화-서평"
+title: "2025 트렌드 노트 : 일상의 여가화"
 categories: book
 tags: [트렌드,노트,트렌드노트,일상의여가화]
 toc: true
