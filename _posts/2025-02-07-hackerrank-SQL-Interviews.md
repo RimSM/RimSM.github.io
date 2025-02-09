@@ -11,8 +11,7 @@ typora-root-url: ../
 
 https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true
 
-아오 영어도 못하는데 뭐가 이리 길디 긴지 모르겠다.   
-검색해서 블로그 에서 문제 해석 봐야지...
+아오 영어도 못하는데 뭐가 이리 긴지 모르겠다.   
 
 - Samantha는 코딩 챌린지와 컨테스트를 통해 여러 대학의 많은 후보자를 인터뷰합니다.
 
@@ -183,3 +182,4 @@ https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true
    
 
 조인을 여러개 하다보니 결과가 너무 느리게 나온다.   
+방법이 없을까...
