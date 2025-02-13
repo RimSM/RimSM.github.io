@@ -1,8 +1,8 @@
 ---
 layouts: single
-title: "어떤 물질의 사랑 "
+title: "어떤 물질의 사랑"
 categories: book
-tag: [책, 소설, 서평]
+tag: [책, 소설, 서평,어떤 물질의 사랑]
 toc: true
 typora-root-url: ../
 ---
