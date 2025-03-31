@@ -6,16 +6,6 @@
     {% if page.sidebar %}
       {% for s in page.sidebar %}
                 <!--visitor count view-->
-        <a href="https://hits.seeyoufarm.com">
-          <style>
-            .hits {
-              width: auto; height: auto;
-              max-width: 99px;
-              max-height: 20px;
-            }
-          </style>
-          <img class="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frimsm.github.io&count_bg=%230092CA&title_bg=%230092CA&icon=mysql.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
-        </a>
         {% if s.image %}
           <img src="{{ s.image | relative_url }}"
                alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
