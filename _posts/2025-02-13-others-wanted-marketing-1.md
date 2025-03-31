@@ -1,7 +1,7 @@
 ---
 layouts: single
 title: "원티드 프리온보딩 - 데이터 분석력으로 기업이 탐내는 마케터 되기"
-categories: others
+categories: knowledge
 tag: [원티드,프리온보딩,마케터, 데이터분석]
 toc: true
 typora-root-url: ../
