@@ -4,7 +4,6 @@ layout: archive
 permalink: /knowledge
 author_profile: true
 sidebar: 
-
     nav: "sidebar-category"
 ---
 {% assign posts = site.categories.knowledge %}
