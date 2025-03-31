@@ -16,7 +16,7 @@ sidebar-category:
         url: "/tableau"
         category: "tableau"
       - title: "Knowledge"
-        url: "/knowledge/"
+        url: "/knowledge"
         category: "knowledge"
   - title: "Life"
     children:
